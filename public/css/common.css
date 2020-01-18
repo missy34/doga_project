@@ -1,0 +1,33 @@
+/* スマホ用CSSここから */
+
+body{
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.container {
+  width: 100%;
+  font-family: 'M PLUS 1p', sans-serif;
+
+}
+
+/* body {
+  font-family: 'Noto Sans JP', 'ヒラギノ角ゴシック', 'Hiragino Sans',
+    'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', 'Meiryo',
+    'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+} */
+/* スマホ用CSS（ここまで） */
+
+/* PC用のCSSはこちら */
+
+@media screen and (min-width: 781px) {
+  /* この中にPC用CSSを書く！ */
+}
+
+/* PC用のCSSはこちら（ここまで） */
+
+@media screen and (min-width: 1040px) {
+  .container {
+    width: 1040px;
+    margin: auto;
+  }
+}

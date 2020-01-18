@@ -1,0 +1,12 @@
+{
+    "Register":"新規登録",
+    "Login":"ログイン",
+    "Logout":"ログアウト",
+    "Name":"お名前",
+    "Remember Me":"パスワードを保存する",
+    "Forgot Your Password?":"パスワードをお忘れですか?",
+
+    "E-Mail Address":"メールアドレス",
+    "Confirm Password":"パスワード（確認）",
+    "Password":"パスワード"
+}
